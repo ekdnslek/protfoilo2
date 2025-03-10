@@ -115,7 +115,7 @@ a{
 
 /* 자기소개*/
 .sub-heading{
-    font-size: 100px;
+    font-size: 80px;
     font-weight: 700;
     line-height: 1.2;
     letter-spacing: -0.25px;
@@ -243,4 +243,18 @@ a{
 
 .footer-padding{
     padding-bottom: 18px;
+}
+
+.h2-gap{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-gap{
+    margin-top: 120px;
+    
+}
+
+.img-st{
+    border-radius: 50px;
 }
